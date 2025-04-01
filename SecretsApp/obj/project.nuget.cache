@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xmwrEw4DmsE=",
+  "success": true,
+  "projectFilePath": "/Users/abdurrahmanahmed/Desktop/hemmelig-env/SecretsApp/SecretsApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/abdurrahmanahmed/.nuget/packages/vaultsharp/1.17.5.1/vaultsharp.1.17.5.1.nupkg.sha512",
+    "/Users/abdurrahmanahmed/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdurrahmanahmed/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdurrahmanahmed/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
