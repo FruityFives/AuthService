@@ -43,7 +43,7 @@ public class AuthController : ControllerBase
     [HttpPost("login")]
     public async Task<IActionResult> Login([FromBody] LoginModel login)
     {
-        if (login.Username == "haavy_user" && login.Password == "aaakodeord")
+        if (login.Username == "abdu" && login.Password == "abdu")
         {
             var token = GenerateJwtToken(login.Username);
             return Ok(new { token });
