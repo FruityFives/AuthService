@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Fe1awDUMLck=",
+  "dgSpecHash": "T3VnSV/LPXiwCgPVuLYd3i10KX3eMMc2xNefOpaXuDRITumRKpJFgk4cj4incylPnKvIlo3XS7K/34KkolDbbQ==",
   "success": true,
-  "projectFilePath": "/Users/abdurrahmanahmed/Desktop/AuthService/SecretsApp/SecretsApp.csproj",
+  "projectFilePath": "C:\\Users\\hhw31\\OneDrive\\Skrivebord\\4 Semester\\Eksamensprojekt\\AuthService\\SecretsApp\\SecretsApp.csproj",
   "expectedPackageFiles": [
-    "/Users/abdurrahmanahmed/.nuget/packages/vaultsharp/1.17.5.1/vaultsharp.1.17.5.1.nupkg.sha512",
-    "/Users/abdurrahmanahmed/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
-    "/Users/abdurrahmanahmed/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
-    "/Users/abdurrahmanahmed/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+    "C:\\Users\\hhw31\\.nuget\\packages\\vaultsharp\\1.17.5.1\\vaultsharp.1.17.5.1.nupkg.sha512"
   ],
   "logs": []
 }
